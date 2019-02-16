@@ -1,0 +1,6 @@
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\bin\Debug\task2.exe
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\bin\Debug\task2.pdb
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\obj\Debug\task2.exe
+C:\Users\Aigerim\Documents\pp2\week2\task2\task2\obj\Debug\task2.pdb
